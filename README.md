@@ -4,14 +4,13 @@
 # Table of Contents
 ---
 - [Analysis Overview](#analysis-overview)
-- [Business Overview](#business-overview)
+- [Problem Statement](#problem-statement)
 - [Objectives](#objectives)
 - [Data Source](#data-source)
-- [Dataset Overview](#dataset-overview)
 - [Tools Used](#tools-used)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Key Metrics Created](#key-metrics-created)
 - [Skills Demonstrated](#skills-demonstrated)
-- [KPI Overview](#kpi-overview)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
 - [Dashboard](#dashboard)
