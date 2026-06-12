@@ -40,20 +40,15 @@ Fuel stations generate thousands of transactions every day, making it challengin
 - Compare weekday and weekend sales patterns.
 - Evaluate overall profitability.
 ---
-
 ## Data Source
-
----
 
 The dataset consists of **31,896 fuel station transactions** covering **January to December 2025**. The data was provided as **12 monthly Excel worksheets** and consolidated into a single dataset for analysis.
 
 ![Raw Dataset](images/raw_data.png)
 
 ---
-
 ## Tools Used
 
----
 
 - **Microsoft Excel** – Data analysis and dashboard development.
 - **Power Query** – Consolidated monthly worksheets and performed data transformation.
@@ -61,10 +56,8 @@ The dataset consists of **31,896 fuel station transactions** covering **January 
 - **Pivot Tables & Charts** – Built interactive dashboard visualizations.
 
 ---
-
 ## Key Metrics Created
 
----
 
 The following metrics were created to evaluate business performance:
 
@@ -77,10 +70,8 @@ The following metrics were created to evaluate business performance:
 ![Key Metrics](images/key_metrics.png)
 
 ---
-
 ## Data Preparation
 
----
 
 The dataset was prepared using Power Query by:
 
@@ -94,7 +85,6 @@ The dataset was prepared using Power Query by:
 ---
 ## Skills Demonstrated
 
----
 
 - Data Transformation and Consolidation (Power Query)
 - Data Cleaning and Validation
@@ -109,7 +99,7 @@ The dataset was prepared using Power Query by:
 ---
 ## Insights
 
----
+
 
 The analysis uncovered several key trends related to customer behaviour, fuel demand, operational performance, and profitability. These findings highlight the station's major revenue drivers and areas where operational improvements can support better business performance.
 
@@ -150,46 +140,7 @@ The station achieved a **gross profit margin of 3.68%**, which is typical for fu
 ![Profit Margin Analysis](images/fuel6.png)
 
 ---
-
 ## Recommendations
----
-
-**Maximise Truck Revenue**
-- Dedicate faster refuelling lanes for trucks
-  during peak hours
-- Ensure AGO is always adequately stocked
-- Introduce a loyalty programme for regular truck
-  drivers to lock in repeat commercial volume
-
-**Investigate Pump 4**
-- Inspect for mechanical or accuracy issues
-- Review attendant assignment patterns at that pump
-- Compare transaction count vs revenue to isolate
-  the root cause
-
-**Plan for Peak Periods**
-- Pre-stock for December demand surge
-- Assign maximum staff coverage every day during
-  3–5 PM
-- Adjust DPK ordering for the March–May seasonal
-  uptick
-
-**Expand Revenue Streams**
-- Add high-margin ancillary products — engine oil,
-  car accessories and convenience store items
-- These require minimal operational change but
-  directly improve the 3.68% gross margin
-
-**Monitor Attendant Performance**
-- Review attendant sales distribution regularly
-- Identify consistently low-performing assignments
-  and investigate whether this is a training,
-  scheduling or placement issue
-
----
-
-## Recommendations
-
 ---
 
 ### Prioritize High-Revenue Products and Customers
@@ -197,21 +148,18 @@ The station achieved a **gross profit margin of 3.68%**, which is typical for fu
 - Maintain adequate stock of PMS and AGO.
 - Introduce loyalty programs for regular truck customers.
 - Dedicate faster refuelling lanes for trucks customers.
----
 
 ### Improve Pump Performance
 
 - Investigate the cause of Pump 4's low revenue.
 - Check for operational or equipment issues.
 - Review attendant assignments to identify possible performance gaps.
----
 
 ### Plan for Peak Demand
 
 - Prepare fuel inventory ahead of the December demand surge.
 - Ensure smooth operations during the 3–5 PM peak period.
 - Plan staffing and fuel supply based on demand patterns.
----
 
 ### Expand Revenue Opportunities
 
@@ -252,8 +200,6 @@ Thank you for reading!
 
 Connect with Me:
 
-
-Email📧:  [peaceada100@gmail.com]
-[LinkedIn](https://www.linkedin.com/in/peace-ada-95b341341)
-[Portfolio](https://peace-ada.github.io/Data-Portfolio/)
+LinkedIn: [Peace Adaobi](https://www.linkedin.com/in/peace-ada-95b341341)  
+Email: [peaceada100@gmail.com](mailto:peaceada100@gmail.com)
 
