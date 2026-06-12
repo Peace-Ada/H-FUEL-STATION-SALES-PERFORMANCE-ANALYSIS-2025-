@@ -79,7 +79,7 @@ The dataset was prepared using Power Query by:
 - Validating data quality and checking for duplicate records.
 - Creating calculated columns to support time-based and profitability analysis.
 
-![Power Query Transformation](images/power_query.png)
+![Power Query Transformation](images/fuel_power_query.png)
 
 ---
 ## Skills Demonstrated
