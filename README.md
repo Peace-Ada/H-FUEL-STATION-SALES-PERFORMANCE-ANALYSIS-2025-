@@ -8,7 +8,7 @@
 - [Objectives](#objectives)
 - [Data Source](#data-source)
 - [Tools Used](#tools-used)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Data Preparation](#data-preparation)
 - [Key Metrics Created](#key-metrics-created)
 - [Skills Demonstrated](#skills-demonstrated)
 - [Insights](#insights)
