@@ -43,7 +43,7 @@ Fuel stations generate thousands of transactions every day, making it challengin
 
 The dataset consists of **31,896 fuel station transactions** covering **January to December 2025**. The data was provided as **12 monthly Excel worksheets** and consolidated into a single dataset for analysis.
 
-![Raw Dataset](images/raw_data.png)
+![Raw Dataset](images/fuel_raw_data.png)
 
 ---
 ## Tools Used
@@ -66,7 +66,7 @@ The following metrics were created to evaluate business performance:
 - **Profit Margin**
 - **Average Daily Revenue**
 
-![Key Metrics](images/key_metrics.png)
+![Key Metrics](images/fuel_key_metrics.png)
 
 ---
 ## Data Preparation
