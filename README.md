@@ -107,95 +107,47 @@ The dataset was prepared using Power Query by:
 - Data Storytelling and Business Recommendations
   
 ---
-
 ## Insights
----
-
-### Insight 1 — Trucks generate 56.98% of total revenue — the station's most critical customer
-
-Despite serving five customer segments, trucks
-dominate revenue so heavily that the station's
-financial health depends on them. PMS accounts
-for 59.04% of revenue and AGO — the primary truck
-fuel — accounts for 37.46%. Together these two
-fuels make up 96.5% of total revenue.
-
-| Fuel Type | Revenue Share |
-|-----------|--------------|
-| PMS (Petrol) | 59.04% |
-| AGO (Diesel) | 37.46% |
-| DPK (Kerosene) | 3.50% |
-
-![Revenue by customer segment — attach your image here](images/fuel1.png)
-
-![Revenue by fuel type — attach your image here](images/fuel2.png)
-
-**Key Takeaway:**
-The station's product and service strategy is
-essentially already decided by the data — trucks
-and PMS are the core of the business. Everything
-else is secondary.
 
 ---
 
-### Insight 2 — Pump 4 is the lowest-revenue pump — and the cause is unknown
-
-Pump 4 recorded the lowest revenue across all 6
-pumps consistently throughout the year. In a
-station where pumps should share similar traffic,
-one that persistently underperforms signals a
-problem — whether mechanical, operational or
-customer-related.
-
-![Revenue by pump number — attach your image here](images/fuel3.png)
-
-**Key Takeaway:**
-Inspect Pump 4 for mechanical or accuracy issues.
-Compare transaction count vs revenue to diagnose
-whether this is a volume problem or a per-transaction
-value problem — the fix depends on the answer.
+The analysis uncovered several key trends related to customer behaviour, fuel demand, operational performance, and profitability. These findings highlight the station's major revenue drivers and areas where operational improvements can support better business performance.
 
 ---
 
-### Insight 3 — December and 3–5 PM are peak periods — but neither is being planned for
+### Insight 1 — Trucks are the station's largest revenue contributor
 
-December recorded the highest monthly revenue
-driven by festive travel and increased
-transportation demand. Within each day, the
-3–5 PM window is the peak transaction period —
-aligning with closing-hour logistics and truck
-route schedules. DPK also showed a seasonal spike
-between March and May.
+Trucks generate **56.98% of total revenue**, making them the station's highest-performing customer segment. Revenue is also highly concentrated in **PMS (59.04%)** and **AGO (37.46%)**, which together contribute **96.5% of total revenue**. This indicates that the station's financial performance depends heavily on these products and customers.
 
-![Monthly revenue trend — attach your image here](images/fuel4.png)
+![Revenue by Customer Segment](images/fuel1.png)
 
-![Revenue by hour of day — attach your image here](images/fuel5.png)
-
-**Key Takeaway:**
-Pre-stock additional fuel before December. Assign
-maximum staffing during the 3–5 PM window every
-day. Adjust DPK ordering to anticipate the
-March–May demand uptick.
+![Revenue by Fuel Type](images/fuel2.png)
 
 ---
 
-### Insight 4 — Gross profit margin is 3.68% — healthy but leaving no room for waste
+### Insight 2 — Pump 4 consistently records the lowest revenue
 
-A 3.68% gross margin is within the normal range
-for retail fuel stations where commodity pricing
-compresses margins. But at this level, small
-operational inefficiencies — a low-performing pump,
-overstocking the wrong fuel or under-staffing the
-peak window — have a disproportionate impact on
-profitability.
+Pump 4 generated the lowest revenue among all six pumps throughout the year. Given that pumps typically operate under similar conditions, this consistent underperformance may indicate operational inefficiencies, equipment issues, or lower transaction volumes that require further investigation.
 
-**Key Takeaway:**
-Every pump, every attendant and every stock
-decision either protects the margin or erodes it.
-Expanding high-margin ancillary products — engine
-oil, car accessories, convenience items — directly
-improves the margin without needing to increase
-fuel volume.
+![Revenue by Pump](images/fuel3.png)
+
+---
+
+### Insight 3 — December and the 3–5 PM window are the station's busiest sales periods
+
+December recorded the highest monthly revenue, reflecting increased fuel demand during the festive season. Daily sales also peak between **3 PM and 5 PM**, indicating periods of consistently high customer activity. In addition, **DPK sales show a noticeable increase between March and May**, suggesting seasonal demand patterns.
+
+![Monthly Revenue Trend](images/fuel4.png)
+
+![Revenue by Hour](images/fuel5.png)
+
+---
+
+### Insight 4 — The station operates on a healthy but narrow profit margin
+
+The station achieved a **gross profit margin of 3.68%**, which is typical for fuel retail businesses where margins are relatively low. At this level, maintaining operational efficiency is essential, as small improvements in inventory management, pump performance, and staffing can have a meaningful impact on overall profitability.
+
+![Profit Margin Analysis](images/fuel6.png)
 
 ---
 
