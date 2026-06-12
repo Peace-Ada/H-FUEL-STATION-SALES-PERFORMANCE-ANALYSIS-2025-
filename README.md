@@ -42,138 +42,70 @@ Fuel stations generate thousands of transactions every day, making it challengin
 ---
 
 ## Data Source
----
-- **Source:** H₂ Fuel Station internal transaction
-  records
-- **Period:** January – December 2025
-- **Size:** 31,896 transaction records
-- **Structure:** 12 separate monthly Excel sheets
-  consolidated into one dataset
-
-![Raw monthly sheets before consolidation — attach your image here](images/fuel_raw_data.png)
 
 ---
 
-## Dataset Overview
----
+The dataset consists of **31,896 fuel station transactions** covering **January to December 2025**. The data was provided as **12 monthly Excel worksheets** and consolidated into a single dataset for analysis.
 
-| Dimension | Detail |
-|-----------|--------|
-| Total Records | 31,896 |
-| Columns | 16 |
-| Period | January – December 2025 |
-| Fuel Types | PMS, AGO, DPK |
-| Customer Segments | Motorcycles, Cars, Buses, Trucks, Generators |
-| Pumps | 6 (Pump 1 – Pump 6) |
-
-**Key Variables:**
-Transaction ID · Fuel Type · Pump Number ·
-Sales Attendant · Asset Type · Litres Sold ·
-Price Per Litre · Total Revenue · Payment Method ·
-Transaction Time
+![Raw Dataset](images/raw_data.png)
 
 ---
 
 ## Tools Used
----
-- **Microsoft Excel:** Primary tool for analysis
-  and dashboard development
-- **Power Query:** Used to append all 12 monthly
-  sheets into one consolidated dataset, standardise
-  data types, check for duplicates and clean the
-  data — cutting manual processing time
-  significantly
-- **Excel Dashboard:** All KPI cards, charts and
-  visualisations built directly in Excel
-- **Calculated Columns:** Created new columns in
-  Excel to support revenue analysis and
-  segmentation
-
-![Power Query consolidation — attach your image here](images/fuel_power_query.png)
 
 ---
 
-## Data Cleaning & Preparation
----
-The dataset came as 12 separate monthly Excel
-sheets. The following steps were taken to prepare
-it for full-year analysis.
-
-**Step 1 — Appended all 12 monthly sheets**
-
-Used Power Query in Excel to append all 12 monthly
-files into one single consolidated dataset of
-31,896 records — enabling full-year analysis
-without manual copy-pasting.
-
-![12 sheets appended into one dataset](images/fuel_append.png)
+- **Microsoft Excel** – Data analysis and dashboard development.
+- **Power Query** – Consolidated monthly worksheets and performed data transformation.
+- **Power Pivot** – Created calculated measures for KPI reporting.
+- **Pivot Tables & Charts** – Built interactive dashboard visualizations.
 
 ---
 
-**Step 2 — Standardised data types**
-
-Standardised column data types across all 12
-sheets to ensure consistent formatting — dates,
-numbers and text fields were aligned before
-analysis began.
-
-![Standardised data types in Power Query](images/fuel_standardised.png)
+## Key Metrics Created
 
 ---
 
-**Step 3 — Checked for duplicates**
+The following metrics were created to evaluate business performance:
 
-Ran a full duplicate check across all 31,896
-records. No duplicate records were found — the
-dataset was clean.
+- **Total Revenue**
+- **Gross Profit**
+- **Total Fuel Cost**
+- **Profit Margin**
+- **Average Daily Revenue**
 
-![Duplicate check — no duplicates found](images/fuel_duplicates.png)
-
----
-
-**Step 4 — Created calculated columns**
-
-Created new columns to support revenue and
-performance analysis including total revenue
-calculations, profit margin fields and time-based
-columns for hourly and monthly trend analysis.
-
-![Calculated columns created in Excel](images/fuel_calculated_columns.png)
+![Key Metrics](images/key_metrics.png)
 
 ---
 
+## Data Preparation
+
+---
+
+The dataset was prepared using Power Query by:
+
+- Consolidating 12 monthly worksheets into a single dataset.
+- Standardizing data types and formatting.
+- Validating data quality and checking for duplicate records.
+- Creating calculated columns to support time-based and profitability analysis.
+
+![Power Query Transformation](images/power_query.png)
+
+---
 ## Skills Demonstrated
----
-- Multi-file Data Consolidation using Power Query
-- Data Cleaning and Standardisation
-- Duplicate Detection and Validation
-- Calculated Column Creation
-- Revenue Segmentation Analysis
-- Customer Segment Performance Analysis
-- Pump and Attendant Performance Evaluation
-- Seasonal and Time-Based Trend Analysis
-- Interactive Dashboard Design
-- Data Storytelling and Business Recommendation
-  Writing
 
 ---
 
-## KPI Overview
----
-
-| Metric | Value |
-|--------|-------|
-| Total Transaction Records | 31,896 |
-| Period Covered | Jan – Dec 2025 |
-| Top Revenue Fuel Type | PMS — 59.04% of revenue |
-| Second Fuel Type | AGO — 37.46% of revenue |
-| DPK Contribution | 3.50% of revenue |
-| Top Customer Segment | Trucks — 56.98% of revenue |
-| Lowest Performing Pump | Pump 4 |
-| Peak Sales Month | December |
-| Peak Sales Window | 3–5 PM daily |
-| Gross Profit Margin | 3.68% |
-
+- Data Transformation and Consolidation (Power Query)
+- Data Cleaning and Validation
+- KPI Development and Performance Analysis
+- Revenue and Profitability Analysis
+- Customer Segmentation Analysis
+- Operational Performance Analysis
+- Time Series and Trend Analysis
+- Dashboard Design and Data Visualization
+- Data Storytelling and Business Recommendations
+```
 ---
 
 ## Insights
