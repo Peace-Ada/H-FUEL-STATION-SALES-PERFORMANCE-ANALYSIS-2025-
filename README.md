@@ -141,7 +141,7 @@ The station achieved a **gross profit margin of 3.68%**, which is typical for fu
 
 ---
 ## Recommendations
----
+
 
 ### Prioritize High-Revenue Products and Customers
 
@@ -166,16 +166,15 @@ The station achieved a **gross profit margin of 3.68%**, which is typical for fu
 - Introduce sales of engine oil, lubricants, and convenience store items.
 - Focus on products with strong customer demand.
 - Reduce dependence on low-performing product lines.
----
 
-## Dashboard
 ---
+## Dashboard
+
 ![Dashboard — H₂ Fuel Station Sales and Performance](images/fuel-dashboard.png)
 
 ---
-
 ## Conclusion
----
+
 This analysis of 31,896 fuel station transactions
 reveals that the station is performing at a normal
 level but normal is not the ceiling.
