@@ -188,13 +188,40 @@ The station achieved a **gross profit margin of 3.68%**, which is typical for fu
 
 ---
 
+## Recommendations
+
+---
+
+### Prioritize High-Revenue Products and Customers
+
+- Maintain adequate stock of PMS and AGO.
+- Introduce loyalty programs for regular truck customers.
+- Dedicate faster refuelling lanes for trucks customers.
+---
+
+### Improve Pump Performance
+
+- Investigate the cause of Pump 4's low revenue.
+- Check for operational or equipment issues.
+- Review attendant assignments to identify possible performance gaps.
+---
+
+### Plan for Peak Demand
+
+- Prepare fuel inventory ahead of the December demand surge.
+- Ensure smooth operations during the 3–5 PM peak period.
+- Plan staffing and fuel supply based on demand patterns.
+---
+
+### Expand Revenue Opportunities
+
+- Introduce sales of engine oil, lubricants, and convenience store items.
+- Focus on products with strong customer demand.
+- Reduce dependence on low-performing product lines.
+---
+
 ## Dashboard
 ---
-One interactive dashboard was built in Excel
-covering all key performance areas — revenue by
-fuel type, customer segment, pump, attendant,
-peak hours, monthly trends and profit margin.
-
 ![Dashboard — H₂ Fuel Station Sales and Performance](images/fuel-dashboard.png)
 
 ---
@@ -203,7 +230,7 @@ peak hours, monthly trends and profit margin.
 ---
 This analysis of 31,896 fuel station transactions
 reveals that the station is performing at a normal
-level — but normal is not the ceiling.
+level but normal is not the ceiling.
 
 Trucks and PMS are carrying the entire business.
 Pump 4 is quietly underperforming. December and
@@ -214,7 +241,7 @@ waste.
 
 The good news: every one of these findings is
 fixable. The data has already identified where
-the opportunities are — the next step is acting
+the opportunities are, the next step is acting
 on them.
 
 Data fuels better decisions.
@@ -223,8 +250,10 @@ Data fuels better decisions.
 
 Thank you for reading!
 
-Let's connect:
+Connect with Me:
 
+
+Email📧:  [peaceada100@gmail.com]
 [LinkedIn](https://www.linkedin.com/in/peace-ada-95b341341)
 [Portfolio](https://peace-ada.github.io/Data-Portfolio/)
-[Email](mailto:peaceada100@gmail.com)
+
